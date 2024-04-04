@@ -1,18 +1,3 @@
-{
-  "name": "apiaaroh",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2",
-    "geojson-geometries-lookup": "^0.5.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7c89cf64745370483f9672fc7e5ad4ff605aea5bef734599163c5ed610e498c
+size 375
